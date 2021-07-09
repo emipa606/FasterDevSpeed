@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>412dc6c9-de8b-4af6-86e8-3e2d18f15b92</ID>
   <ModName>Faster Dev Speed (Continued)</ModName>
-  <Version>1.0.1.0</Version>
+  <Version>1.0.2.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
-
